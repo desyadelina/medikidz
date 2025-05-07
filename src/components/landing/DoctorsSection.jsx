@@ -43,7 +43,7 @@ const DoctorsSection = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900">Our Doctor</h2>
           <p className="mt-4 text-lg text-gray-800">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
+            Berikut adalah daftar dokter kami yang berpengalaman dan siap membantu Anda.
           </p>
         </div>
 

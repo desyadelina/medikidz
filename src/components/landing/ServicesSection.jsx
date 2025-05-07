@@ -10,7 +10,7 @@ const ServicesSection = () => {
             Our Service
           </h2>
           <p className="mt-4 text-lg md:text-xl text-gray-800">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
+            Kami menyediakan berbagai layanan kesehatan untuk memenuhi kebutuhan Anda dan keluarga.
           </p>
         </div>
 
@@ -43,27 +43,27 @@ const ServicesSection = () => {
             <div className="grid grid-cols-2 md:grid-cols-2 md:items-center lg:grid-cols-3 gap-8">
               <ServiceCard
                 title="Poli Anak"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                description="Layanan pemeriksaan dan pengobatan khusus untuk kesehatan anak, dari bayi hingga remaja."
               />
               <ServiceCard
-                title="Service 1"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                title="Poli Umum"
+                description="Layanan pemeriksaan umum untuk berbagai keluhan kesehatan, tanpa perlu rujukan khusus."
               />
               <ServiceCard
-                title="Service 1"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                title="Apotek"
+                description="Menyediakan obat-obatan resep dan bebas, serta konsultasi penggunaan obat yang aman."
               />
               <ServiceCard
-                title="Service 1"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                title="Laboratorium"
+                description="Layanan cek darah, urin, dan pemeriksaan penunjang medis lainnya dengan hasil akurat."
               />
               <ServiceCard
-                title="Service 1"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                title="Khitan Anak"
+                description="Layanan sunat anak dengan metode modern, aman, dan nyaman bagi anak-anak."
               />
               <ServiceCard
-                title="Service 1"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting"
+                title="Homecare"
+                description="Layanan perawatan kesehatan langsung di rumah, cocok untuk pasien yang butuh pemantauan rutin."
               />
             </div>
           </div>
