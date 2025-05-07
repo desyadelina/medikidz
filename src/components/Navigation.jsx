@@ -39,7 +39,7 @@ const Navigation = () => {
       <nav className="sticky top-0 z-40 flex items-center justify-between px-4 md:px-8 lg:px-20 py-4 w-full bg-white bg-opacity-95 shadow-md">
         <div className="flex items-center">
           <img
-            src="images/logo.png" 
+            src="/images/logo.png" 
             alt="MediKidz Logo"
             className="h-12 w-auto"
           />
@@ -89,7 +89,7 @@ const Navigation = () => {
       >
         <div className="p-5">
           <div className="flex justify-between items-center mb-8">
-            <img src="images/logo.png" alt="MediKidz Logo" className="h-10 w-auto" />
+            <img src="/images/logo.png" alt="MediKidz Logo" className="h-10 w-auto" />
             <button 
               onClick={closeMenu}
               className="text-gray-700 focus:outline-none" 

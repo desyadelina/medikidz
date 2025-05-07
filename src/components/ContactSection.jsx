@@ -9,7 +9,7 @@ const ContactSection = () => {
           <div className="flex items-center justify-center md:justify-center">
             <div className="w-48">
               <img
-                src="images/logo.png"
+                src="/images/logo.png"
                 alt="MediKidz Logo"
                 className="w-full"
               />

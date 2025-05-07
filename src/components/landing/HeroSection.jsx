@@ -31,7 +31,7 @@ const HeroSection = () => {
               style={{ transform: "translateY(15%)" }}
             ></div>
             <img
-              src="images/doctor.png"
+              src="/images/doctor.png"
               alt="Doctor"
               className="absolute bottom-0 left-0 right-0 mx-auto w-full md:w-[679px] object-contain"
               style={{ transform: "translateY(15%)" }}

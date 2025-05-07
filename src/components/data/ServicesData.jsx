@@ -108,15 +108,14 @@ export const servicesData = {
   ],
   homecare: [
     {
-        title: "Perawatan Pasien di Rumah",
-        description:
-            "Layanan perawatan pasien di rumah, termasuk perawatan luka, pemasangan infus, dan pemantauan kondisi kesehatan.",
+      title: "Perawatan Pasien di Rumah",
+      description:
+        "Layanan perawatan pasien di rumah, termasuk perawatan luka, pemasangan infus, dan pemantauan kondisi kesehatan.",
     },
     {
-        title: "Fisioterapi di Rumah",
-        description:
-            "Layanan fisioterapi untuk pemulihan pasca operasi, cedera, atau kondisi medis lainnya yang dilakukan di rumah pasien.",
+      title: "Fisioterapi di Rumah",
+      description:
+        "Layanan fisioterapi untuk pemulihan pasca operasi, cedera, atau kondisi medis lainnya yang dilakukan di rumah pasien.",
     },
-],
-
+  ],
 };

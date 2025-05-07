@@ -66,17 +66,17 @@ const DoctorsSection = () => {
         <div className="block md:hidden">
           <Slider {...settings}>
             <DoctorCard
-              image="images/dr_Iskandar.png"
+              image="/images/dr_Iskandar.png"
               name="dr. Iskandar, M.Kes., Sp.A"
               specialty="Dokter Anak"
             />
             <DoctorCard
-              image="images/dr_Hikmah_Ika_Darmayanti.png"
+              image="/images/dr_Hikmah_Ika_Darmayanti.png"
               name="dr. Hikmah Ika Darmayanti"
               specialty="Dokter Umum"
             />
             <DoctorCard
-              image="images/dr_Ahmad_Amanan.png"
+              image="/images/dr_Ahmad_Amanan.png"
               name="dr. Ahmad Amanan"
               specialty="Dokter Umum"
             />
@@ -91,17 +91,17 @@ const DoctorsSection = () => {
           }}
         >
           <DoctorCard
-            image="images/dr_Iskandar.png"
+            image="/images/dr_Iskandar.png"
             name="dr. Iskandar, M.Kes., Sp.A"
             specialty="Dokter Anak"
           />
           <DoctorCard
-            image="images/dr_Hikmah_Ika_Darmayanti.png"
+            image="/images/dr_Hikmah_Ika_Darmayanti.png"
             name="dr. Hikmah Ika Darmayanti"
             specialty="Dokter Umum"
           />
           <DoctorCard
-            image="images/dr_Ahmad_Amanan.png"
+            image="/images/dr_Ahmad_Amanan.png"
             name="dr. Ahmad Amanan"
             specialty="Dokter Umum"
           />

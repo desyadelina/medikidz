@@ -22,7 +22,7 @@ const ServicesSection = () => {
               style={{ borderTopRightRadius: "245.5px" }}
             >
               <img
-                src="images/doctor.png"
+                src="/images/doctor.png"
                 alt="Doctor"
                 className="absolute w-[560px] object-cover"
                 style={{ transform: "translateY(10%)" }}

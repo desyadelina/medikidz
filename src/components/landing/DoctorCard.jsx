@@ -8,7 +8,7 @@ const DoctorCard = ({ image, name, specialty, className = "" }) => {
           src={image}
           alt={name}
           className="absolute mx-auto w-[261px] h-[261px] object-contain"
-          style={{ transform: 'translateX(-15%)' }}
+          style={{ transform: "translateX(-15%)" }}
         />
       </div>
       <h3 className="text-xl font-bold text-gray-900">{name}</h3>
