@@ -57,7 +57,7 @@ const HeroSection = () => {
             <p className="mt-6 text-base md:text-lg text-gray-800 max-w-lg mx-auto md:mx-0">
               {currentService.description}
             </p>
-            <button className="mt-8 px-8 py-3 bg-[#465445] text-white text-lg font-bold rounded-full hover:bg-gray-800 transition-colors">
+            <button className="mt-16 px-8 py-3 bg-[#465445] text-white text-lg font-bold rounded-full hover:bg-gray-800 transition-colors">
               Register
             </button>
           </div>
