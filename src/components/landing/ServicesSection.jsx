@@ -7,14 +7,14 @@ const ServicesSection = () => {
       <div className="container mx-auto ">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
-            Our Service
+            Service
           </h2>
           <p className="mt-4 text-lg md:text-xl text-gray-800">
             Kami menyediakan berbagai layanan kesehatan untuk memenuhi kebutuhan Anda dan keluarga.
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-96 px-4">
           {/* First column with large image */}
           <div className="hidden md:flex col-span-1 md:col-span-1 lg:col-span-1 flex-col">
             <div

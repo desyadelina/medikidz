@@ -54,7 +54,7 @@ const DoctorsSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
-            Our Doctor
+            Doctor
           </h2>
           <p className="mt-4 text-lg text-gray-800">
             Berikut adalah daftar dokter kami yang berpengalaman dan siap

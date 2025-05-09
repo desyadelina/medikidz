@@ -39,7 +39,7 @@ const Navigation = () => {
       <nav className="sticky top-0 z-40 flex items-center justify-between px-4 md:px-8 lg:px-20 py-4 w-full bg-white bg-opacity-95 shadow-md">
         <div className="flex items-center">
           <img
-            src="/images/logo.png" 
+            src="/images/logo_landscape.png" 
             alt="MediKidz Logo"
             className="h-12 w-auto"
           />
@@ -47,8 +47,8 @@ const Navigation = () => {
         
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center space-x-6 text-base lg:text-lg text-gray-800">
-          <a href="#service" className="hover:text-gray-600 font-bold">Our Service</a>
-          <a href="#doctor" className="hover:text-gray-600 font-bold">Our Doctor</a>
+          <a href="#service" className="hover:text-gray-600 font-bold">Service</a>
+          <a href="#doctor" className="hover:text-gray-600 font-bold">Doctor</a>
           <a href="#antrian" className="hover:text-gray-600 font-bold">Live Antrian</a>
           <button className="px-6 py-2 bg-[#465445] text-white font-medium rounded-full hover:bg-gray-800 transition-colors">
             Login
@@ -107,14 +107,14 @@ const Navigation = () => {
               className="text-lg font-bold text-gray-800 hover:text-gray-600"
               onClick={closeMenu}
             >
-              Our Service
+              Service
             </a>
             <a 
               href="#doctor" 
               className="text-lg font-bold text-gray-800 hover:text-gray-600"
               onClick={closeMenu}
             >
-              Our Doctor
+              Doctor
             </a>
             <a 
               href="#antrian" 

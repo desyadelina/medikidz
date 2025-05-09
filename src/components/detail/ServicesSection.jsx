@@ -10,7 +10,7 @@ const ServicesSection = () => {
   return (
     <section className="px-16 pt-36 max-md:px-10 max-sm:px-5 max-sm:pt-20 py-16 md:py-24">
       <h2 className="mb-12 text-5xl font-bold text-center text-stone-950">
-        Our Service
+        Service
       </h2>
       <div
         className={`grid gap-10 max-md:grid-cols-2 max-sm:grid-cols-1 ${
