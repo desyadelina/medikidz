@@ -56,7 +56,7 @@ const DoctorsSection = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
             Doctor
           </h2>
-          <p className="mt-4 text-lg text-gray-800">
+          <p className="mt-4 text-lg md:text-xl text-gray-800">
             Berikut adalah daftar dokter kami yang berpengalaman dan siap
             membantu Anda.
           </p>
