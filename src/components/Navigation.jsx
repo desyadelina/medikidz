@@ -93,7 +93,7 @@ const Navigation = () => {
             Doctor
           </a>
           <a
-            onClick={() => navigateToSection("#antrian")}
+            onClick={() => navigateToSection("#")}
             className="hover:text-gray-600 font-bold cursor-pointer"
           >
             Live Antrian
@@ -203,7 +203,7 @@ const Navigation = () => {
               Doctor
             </a>
             <a
-              onClick={() => navigateToSection("#antrian")}
+              onClick={() => navigateToSection("#")}
               className="text-lg font-bold text-gray-800 hover:text-gray-600 cursor-pointer"
             >
               Live Antrian

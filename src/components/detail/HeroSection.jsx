@@ -54,7 +54,7 @@ const HeroSection = () => {
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
               {currentService.title}
             </h1>
-            <p className="mt-6 text-base md:text-lg text-gray-800 max-w-lg mx-auto md:mx-0">
+            <p className="mt-6 text-xl text-gray-800 max-w-lg mx-auto md:mx-0">
               {currentService.description}
             </p>
             <button className="mt-16 px-8 py-3 bg-[#465445] text-white text-lg font-bold rounded-full hover:bg-gray-800 transition-colors">
